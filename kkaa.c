@@ -21,5 +21,5 @@ a[j]=temp;
 }
 }
 }
-printf("%d",a[0]);
+  printf("%d",c);
 }
