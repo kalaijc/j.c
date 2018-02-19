@@ -18,7 +18,7 @@ int main(void)
 		i++;
 	}
 	str1[i]='\0';
-	printf("\n%s",str1);
+	printf("\t%s",str1);
 	
 	return 0;
 }
