@@ -21,4 +21,4 @@ int main()
         printf(" NO.",number);
 
     return 0;
- }   
+}
