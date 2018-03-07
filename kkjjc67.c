@@ -3,10 +3,10 @@
 int main(void) 
 {
 	char str[20];
-	int k,i;
+	int j,i;
 	printf("enter the string and the k value:");
-	scanf("%s %d",str,&k);
-	for(i=0;i<k;i++)
+	scanf("%s %d",str,&j);
+	for(i=0;i<k;j++)
 	{
 		printf("\n%c",str[i]);
 	}
